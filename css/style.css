@@ -232,6 +232,7 @@ p {
  }
 
  #testimonials .testimonial {
+    color: #fff;
     padding: 20px;
     margin-bottom: 40px;
     border-radius: 5px;
@@ -272,4 +273,8 @@ p {
     background: #403f3f;
     color: #fff;
     padding: 20px;
+}
+
+.email {
+    color: #fff;
 }
